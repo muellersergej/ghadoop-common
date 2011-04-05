@@ -1,0 +1,2 @@
+This fork mainly contains some minor fixes for the Client.java implementation.
+The fixes address some problems accured during the communication with tens of child vms.
